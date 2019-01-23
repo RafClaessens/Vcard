@@ -5,7 +5,7 @@ body{
     background-color: orange;
     width: 900px;
     margin: 0 auto;
-    margin-top: 20px;
+    margin-top: 10px;
 
 }
 
@@ -14,7 +14,7 @@ body{
     height: 480px;
     position: absolute;
     display: block;
-    margin-bottom: 20px;
+    padding-bottom: 10px;    
 
 }
 /* My special title */
@@ -87,7 +87,8 @@ top: 15px;
     position: relative;
     float: left;
     line-height: 1.3;
-    padding-top: 10px;
+    padding-left: 25px;
+    height: 135px;
 }
 
 .contain2 table td{
@@ -107,7 +108,6 @@ top:120px;
     display: inline-block;
     width: 370px;
 	text-align: center;
-	border-left: 3px solid rgba(110, 108, 108, 0.925);
     padding-left: 1em; 
     height: 350px;
 
@@ -144,7 +144,7 @@ height: 25px;
   }
   
   .contain1 a:hover {
-    color: rgba(143, 55, 55, 0.63);
+    color: orange;
     background-color: transparent;
     text-decoration: underline;
   }
@@ -165,7 +165,7 @@ height: 25px;
       display: inline-block;
       font-size: 25px; 
       top: 50px;
-      left: 140px;
+      left: 100px;
       background-color: rgb(48, 48, 48);
      padding: 0.3em 1.2em;
     border: 0.16em solid rgba(255,255,255,0);
@@ -177,5 +177,5 @@ height: 25px;
     transition: all 0.2s;
 }
 .button:hover{
-    background-color: rgba(143, 55, 55, 0.63);;
+    background-color:orange;
 }
