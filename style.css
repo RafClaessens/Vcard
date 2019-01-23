@@ -107,15 +107,16 @@ top:120px;
     width: 370px;
 	text-align: center;
 	border-left: 3px solid rgba(110, 108, 108, 0.925);
-	padding-left: 1em; 
+    padding-left: 1em; 
+    height: 350px;
 
 	}
 	.bodytekstright{
         position: absolute;
-        top: 30px;
+        top: 0px;
         right: 10px;
         float: right;
-		width: 225px;
+        width: 225px;
 		text-align: center;
 		border-left: 3px solid rgba(110, 108, 108, 0.925);
         }
