@@ -87,6 +87,7 @@ top: 15px;
     position: relative;
     float: left;
     line-height: 1.3;
+    padding-top: 10px;
 }
 
 .contain2 table td{
