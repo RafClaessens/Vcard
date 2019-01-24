@@ -2,10 +2,12 @@
 @import url(https://fonts.googleapis.com/css?family=Seaweed+Script);
 
 body{
-    background-color: rgb(255, 208, 0);
     width: 900px;
     margin: 0 auto;
-    margin-top: 10px;
+    margin-top: 20px;
+    background-image: url("oryel.jpg");
+    background-size: cover;
+
 
 }
 
