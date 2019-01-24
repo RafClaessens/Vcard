@@ -2,7 +2,7 @@
 @import url(https://fonts.googleapis.com/css?family=Seaweed+Script);
 
 body{
-    background-color: orange;
+    background-color: rgb(255, 208, 0);
     width: 900px;
     margin: 0 auto;
     margin-top: 10px;
@@ -10,7 +10,7 @@ body{
 }
 
 .borderX {
-    background-color: rgb(231, 231, 231);
+    background-color: rgb(183, 215, 252);
     height: 480px;
     position: absolute;
     display: block;
@@ -30,6 +30,8 @@ body{
 .script span {
   background-color: #222;
   padding: 0 0.3em;
+  border: 3px solid rgb(165, 195, 252);
+  border-radius: 25%;
 }
 .script:before {
   content:"";
@@ -83,6 +85,8 @@ margin-top: 50px;
     position: relative;
     margin-top: -32px;
     left: 35px;
+    border: 5px solid rgb(183, 215, 252);
+    border-radius: 10%;
 
     
 }
@@ -147,7 +151,7 @@ height: 25px;
   }
   
   .contain5:hover {
-    color: orange;
+    color: rgb(255, 208, 0);;
     background-color: transparent;
     text-decoration: underline;
   }
@@ -159,7 +163,7 @@ height: 25px;
   }
   /* ---------------------- */
   .borderX{
-      border: 5px solid black;
+      border: 3px solid black;
       border-radius: 5%;
   }
 
@@ -180,5 +184,5 @@ height: 25px;
     transition: all 0.2s;
 }
 .button:hover{
-    background-color:orange;
+    background-color:rgb(255, 208, 0);;
 }
