@@ -59,9 +59,13 @@ body{
     padding-left: 50px;
     border-bottom: 1px solid black;
 }
-
+/* google fonts */
 .fontje{
     font-family: 'VT323', monospace;
+}
+.fontj2{
+    font-family: 'Bitter', serif;
+
 }
 /* font awsome */
 .contain5 .fa-linkedin{
