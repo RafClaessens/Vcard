@@ -10,7 +10,7 @@ body{
 }
 
 .borderX {
-    background-color: rgb(183, 215, 252);
+    background-color: #b3b1b3;
     height: 480px;
     position: absolute;
     display: block;
@@ -21,7 +21,7 @@ body{
 
 .script {
   font-family: "Seaweed Script";
-  color: #fff;
+  color: #eeece5;
   text-align: center;
   font-size: 40px;
   position: relative;
@@ -30,7 +30,7 @@ body{
 .script span {
   background-color: #222;
   padding: 0 0.3em;
-  border: 3px solid rgb(165, 195, 252);
+  border: 3px solid #989698;
   border-radius: 25%;
 }
 .script:before {
@@ -40,7 +40,7 @@ body{
   z-index:-1;
   top: 50%;
   width: 100%;
-  border-bottom: 3px solid #fff;
+  border-bottom: 3px solid #eeece5;
 }
 
 /* --------------------------- */
@@ -53,12 +53,12 @@ body{
     padding-bottom: 10px;
     margin-top: 0px;
 }
-.line{
+/* .line{
     display: inline-block;
     padding-right: 55px;
     padding-left: 50px;
-    border-bottom: 1px solid black;
-}
+    border-bottom: 1px solid #946e61;
+} */
 /* google fonts */
 .fontje{
     font-family: 'VT323', monospace;
@@ -89,7 +89,7 @@ margin-top: 50px;
     position: relative;
     margin-top: -32px;
     left: 35px;
-    border: 5px solid rgb(183, 215, 252);
+    border: 5px solid #b3b1b3;
     border-radius: 10%;
 
     
@@ -130,7 +130,7 @@ top:120px;
         float: right;
         width: 225px;
 		text-align: center;
-		border-left: 3px solid rgba(110, 108, 108, 0.925);
+		border-left: 3px solid #946e61;
         }
 
 		td{
@@ -167,7 +167,7 @@ height: 25px;
   }
   /* ---------------------- */
   .borderX{
-      border: 3px solid black;
+      border: 3px solid #946e61;
       border-radius: 5%;
   }
 
