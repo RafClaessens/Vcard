@@ -7,8 +7,6 @@ body{
     margin-top: 20px;
     background-image: url("oryel.jpg");
     background-size: cover;
-
-
 }
 
 .borderX {
@@ -157,7 +155,7 @@ height: 25px;
   }
   
   .contain5:hover {
-    color: rgb(255, 208, 0);;
+    color: rgb(204, 150, 1);
     background-color: transparent;
     text-decoration: underline;
   }
@@ -190,5 +188,5 @@ height: 25px;
     transition: all 0.2s;
 }
 .button:hover{
-    background-color:rgb(255, 208, 0);;
+    background-color:rgb(204, 150, 1);
 }
