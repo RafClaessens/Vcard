@@ -8,17 +8,29 @@ body{
     background-image: url("oryel.jpg");
     background-size: cover;
 }
-
+td a:active{
+color: black;
+}
+td a:link{
+    color: black;
+    }
+    td a:hover{
+        color: black;
+        }
+        td a:visited{
+            color: black;
+            }
 .borderX {
     background-color: #b3b1b3;
     height: 480px;
     position: absolute;
     display: block;
     padding-bottom: 10px;    
-
 }
 /* My special title */
-
+.line{
+    font-family: 'Indie Flower', cursive;
+}
 .script {
   font-family: "Seaweed Script";
   color: #eeece5;
